@@ -45,9 +45,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-ebd7-4532-b550-2db503e63ccb.gif" width="100">
 </div>
 <!-- INTERACTIVE CODE SNIPPET SHOWCASE -->
+<!-- INTERACTIVE CODE SNIPPET SHOWCASE -->
 <details>
-  <summary><h2>💻 Code Sample: My Java Coding Style</h2></summary>
-java/**
+  <summary>💻 Code Sample: My Java Coding Style</summary>
+  
+```java
+/**
  * A Sample Spring Boot Service demonstrating my coding style and patterns
  * @author Nikhil Dev Arepu
  */
@@ -94,6 +97,7 @@ public class UserService {
         return userRepository.save(newUser);
     }
 }
+```
 </details>
 <!-- ABOUT ME SECTION WITH DUAL VIEW -->
 <h1 align="center">👨‍💻 About Me</h1>
@@ -146,16 +150,7 @@ public class UserService {
   <!-- Activity Graph -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=Nikhildev0904&theme=react-dark&hide_border=true&area=true" />
 </div>
-<!-- TOGGLE BETWEEN DARK/LIGHT THEME CONTENT (GITHUB SPECIAL SYNTAX) -->
-<div align="center">
-  <h2>🌓 Viewing Experience</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhildev0904/Nikhildev0904/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhildev0904/Nikhildev0904/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nikhildev0904/Nikhildev0904/output/github-contribution-grid-snake.svg">
-  </picture>
-  <p><i>The snake animation adapts to your theme preference! Try switching between light/dark mode.</i></p>
-</div>
+
 <!-- SKILL SHOWCASE WITH ADVANCED VISUALS -->
 <h1 align="center">🛠️ Technical Expertise</h1>
 <!-- PREMIUM SKILL VISUALIZATION -->
@@ -179,10 +174,6 @@ public class UserService {
           <img alt="JUnit" src="https://img.shields.io/badge/JUnit5-25A162.svg?style=flat&logo=check-circle&logoColor=white"/>
         </div>
         <br>
-        <img src="https://progress-bar.dev/95/?width=500&scale=100&title=Java&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/90/?width=500&scale=100&title=Spring%20Boot&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/85/?width=500&scale=100&title=Hibernate&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/80/?width=500&scale=100&title=JUnit&suffix=&color=3C99F7" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/-%20Cloud%20%26%20DevOps-1A1B27?style=for-the-badge&labelColor=222&color=1A1B27" />
@@ -201,10 +192,6 @@ public class UserService {
           <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=flat&logo=github-actions&logoColor=white"/>
         </div>
         <br>
-        <img src="https://progress-bar.dev/85/?width=500&scale=100&title=AWS&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/80/?width=500&scale=100&title=Docker&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/65/?width=500&scale=100&title=Kubernetes&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/75/?width=500&scale=100&title=CI/CD&suffix=&color=3C99F7" />
       </td>
     </tr>
     <tr>
@@ -225,10 +212,6 @@ public class UserService {
           <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white"/>
         </div>
         <br>
-        <img src="https://progress-bar.dev/90/?width=500&scale=100&title=MySQL&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/85/?width=500&scale=100&title=MongoDB&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/80/?width=500&scale=100&title=PostgreSQL&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/75/?width=500&scale=100&title=Redis&suffix=&color=3C99F7" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/-%20Other%20Technologies-1A1B27?style=for-the-badge&labelColor=222&color=1A1B27" />
@@ -247,10 +230,6 @@ public class UserService {
           <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white"/>
         </div>
         <br>
-        <img src="https://progress-bar.dev/75/?width=500&scale=100&title=Python&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/70/?width=500&scale=100&title=JavaScript&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/65/?width=500&scale=100&title=React&suffix=&color=3C99F7" />
-        <img src="https://progress-bar.dev/90/?width=500&scale=100&title=Git&suffix=&color=3C99F7" />
       </td>
     </tr>
   </table>
@@ -461,13 +440,7 @@ public class UserService {
     <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=flat-square" />
   </div>
   
-  <h4>Professional Learning Path:</h4>
-  <div>
-    <img src="https://progress-bar.dev/95/?width=300&scale=100&title=DSA&suffix=&color=3C99F7" />
-    <img src="https://progress-bar.dev/90/?width=300&scale=100&title=System%20Design&suffix=&color=3C99F7" />
-    <img src="https://progress-bar.dev/85/?width=300&scale=100&title=Cloud%20Native&suffix=&color=3C99F7" />
-    <img src="https://progress-bar.dev/80/?width=300&scale=100&title=DevOps&suffix=&color=3C99F7" />
-  </div>
+  
 </td>
   </tr>
 </table>
@@ -487,8 +460,9 @@ public class UserService {
     <img src="https://img.shields.io/badge/DSA-500+_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </div>
+<!-- 
 <!-- INTERACTIVE RESOURCES SECTION -->
-<h1 align="center">🔗 Resources & Tools I Recommend</h1>
+<!-- <h1 align="center">🔗 Resources & Tools I Recommend</h1>
 <table>
   <tr>
     <td width="33%">
@@ -522,35 +496,45 @@ public class UserService {
       </ul>
     </td>
   </tr>
-</table>
-<!-- GET IN TOUCH SECTION -->
-<h1 align="center">📫 Connect With Me</h1>
-<div align="center">
-  <a href="mailto:arrnikhil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nikhil-dev-arepu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/arrnikhil">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
-  <a href="https://github.com/Nikhildev0904">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+</table>  -->
+
+<!-- INTERACTIVE CALL TO ACTION -->
+<h1 align="center">🤝 Let's Connect & Collaborate</h1>
+
+<div style="background-color:rgba(60, 153, 247, 0.1); max-width:800px; margin:30px auto; padding:30px; border-radius:15px; text-align:center;">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="180" />
+  
+  <p style="margin:20px 0; font-size:18px;">
+    I'm always open to interesting projects, collaboration opportunities, and discussions about software engineering. 
+    If you're working on something exciting or just want to connect, feel free to reach out!
+  </p>
+  
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin:20px 0;">
+    <a href="mailto:arrnikhil@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/nikhil-dev-arepu">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Nikhildev0904">
+      <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://leetcode.com/arrnikhil">
+      <img src="https://img.shields.io/badge/Challenge_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    </a>
+  </div>
 </div>
-<div align="center">
-  <h3>✉️ Open for collaboration, project opportunities, and networking!</h3>
-  <p>Let's connect and discuss how we can work together on exciting projects.</p>
-</div>
+
 <!-- ANIMATED WAVES FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=50&fontAlignY=65&animation=twinkling&customColorList=0,2,3,1,30" width="100%"/>
 </div>
+
 <div align="center">
   <h2>✨ "Clean code always looks like it was written by someone who cares." ✨</h2>
   <p>Thank you for visiting my profile! Let's build something amazing together.</p>
 </div>
+
 <!-- SETUP INSTRUCTIONS FOR GITHUB ACTIONS -->
 <!-- 
 For the 3D contribution calendar:
