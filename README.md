@@ -23,13 +23,13 @@
   </a>
 </div>
 <!-- INTERACTIVE 3D CONTRIBUTION GRAPH WITH CUSTOM THEME -->
-<div align="center">
+<!-- <div align="center">
   <h2>⚙️ GitHub Contribution Skyline</h2>
   <a href="https://skyline.github.com/Nikhildev0904/2023">
     <img src="https://github.com/Nikhildev0904/Nikhildev0904/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
   </a>
   <i>Click to view my interactive 3D contribution skyline!</i>
-</div>
+</div> -->
 <!-- ANIMATED TECH STACK SHOWCASE -->
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 
