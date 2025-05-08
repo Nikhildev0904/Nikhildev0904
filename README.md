@@ -35,18 +35,30 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 
   My Tech Arsenal
 </h1>
-<div align="center">
-  <!-- ANIMATED TECH ICONS -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-ebd7-4532-b550-2db503e63ccb.gif" width="100">
+
+  
+  <!-- STATIC TECH ICONS -->
+  <div style="margin: 20px 0;" align="center">
+    <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
+    <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=mongo" width="65" height="65" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+    <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="Idea" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+
+  </div>
+  
 </div>
 <!-- INTERACTIVE CODE SNIPPET SHOWCASE -->
 <!-- INTERACTIVE CODE SNIPPET SHOWCASE -->
 <details>
+  
   <summary>💻 Code Sample: My Java Coding Style</summary>
   
 ```java
@@ -249,7 +261,7 @@ public class UserService {
 <!-- FEATURED PROJECTS WITH ARCHITECTURE DIAGRAMS -->
 <h1 align="center">🏆 Showcase Projects</h1>
 <!-- PROJECT SHOWCASE WITH ARCHITECTURE DIAGRAMS -->
-<table>
+<!-- <table>
   <tr>
     <td colspan="2">
       <div align="center">
@@ -275,7 +287,7 @@ public class UserService {
     </div>
   </details>
   
-  <h4>Core Technologies:</h4>
+  <!-- <h4>Core Technologies:</h4>
   <div>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -295,7 +307,7 @@ public class UserService {
   </ul>
 </td>
   </tr>
-</table>
+</table> -->
 <!-- PROJECT 2 -->
 <table>
   <tr>
@@ -315,7 +327,7 @@ public class UserService {
   <details>
     <summary><b>🔍 View System Architecture</b></summary>
     <div align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/1*Lqf38GJGKzNCxOtHGNZU5g.png" width="100%" alt="Architecture Diagram"/>
+      <img src="https://private-user-images.githubusercontent.com/160020274/441655689-ee156df3-582d-469f-9c59-30457f409b35.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY2OTg5OTksIm5iZiI6MTc0NjY5ODY5OSwicGF0aCI6Ii8xNjAwMjAyNzQvNDQxNjU1Njg5LWVlMTU2ZGYzLTU4MmQtNDY5Zi05YzU5LTMwNDU3ZjQwOWIzNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwOFQxMDA0NTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNmUxZWVkNzM0ZDk0NWI0YTExOTAwZjY5ZjdjNTVhM2Y4Nzc0NjZmMDFiYjBhMTI3MWFiZjQzMzM4M2EwNjhlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.W91ck-p6oLNoMJkVp91V7BNJtPtIwp2L3BCPIA0jHRU" width="100%" alt="Architecture Diagram"/>
       <i>Serverless architecture with AI model integration</i>
     </div>
   </details>
@@ -324,8 +336,10 @@ public class UserService {
   <div>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
   </div>
   
