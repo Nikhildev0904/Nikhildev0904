@@ -117,32 +117,38 @@ public class UserService {
   <tr>
     <td width="50%">
       <h3>Professional Identity</h3>
-      <p>
-        As a <b>Backend Engineer</b> passionate about crafting scalable solutions, I specialize in building high-performance distributed systems using <b>Java</b>, <b>Spring Boot</b>, and <b>AWS</b>. My expertise is focused on creating robust microservices architectures that solve complex business problems efficiently.
-      </p>
-      <p>
-        At <b>Cognitree</b>, I've been developing production-grade applications with a focus on performance optimization, security best practices, and clean, maintainable code. My approach combines technical excellence with business-oriented thinking.
-      </p>
-  <h3>My Engineering Philosophy</h3>
-  
-  > "Software development is not just about writing code; it's about crafting elegant solutions to real-world problems. Great code should be clean, maintainable, and scalable."
-  
-  <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20solve%20the%20problem%2C%20then%20write%20the%20code.&author=John%20Johnson" width="100%"/>
-  </div>
+<p>
+  As a <b>Backend Engineer</b>, I specialize in designing and building scalable, production-grade backend systems using 
+  <b>Java</b>, <b>Spring Boot</b>, <b>Django</b>, and <b>AWS</b>. My work focuses on creating high-performance APIs, 
+  distributed microservices, and integration-driven platforms that power real-world business workflows.
+</p>
+<p>
+  At <b>Loyalty Juggernaut Inc.</b>, I work on enterprise loyalty platforms, developing and scaling backend services for 
+  projections engines, loyalty calculations, partner integrations, and data pipelines. I prioritize performance optimization,
+  clean architecture, security best practices, and maintainable code, while aligning engineering decisions with business goals.
+</p>
+
+<h3>My Engineering Philosophy</h3>
+
+> "Good software is built by engineers who understand both the problem domain and the cost of complexity.  
+> I believe in writing code that is simple, testable, and scalable — code that teams can confidently evolve."
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%20solve%20the%20problem%2C%20then%20write%20the%20code.&author=John%20Johnson" width="100%"/>
+</div>
 </td>
 <td width="50%">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%">
-  
-  <h3>Key Competencies</h3>
-  <ul>
-    <li>🔹 <b>Backend Development:</b> Java, Spring Boot, Microservices</li>
-    <li>🔹 <b>Database Systems:</b> PostgreSQL, MongoDB, MySQL</li>
-    <li>🔹 <b>Cloud & DevOps:</b> AWS, Docker, CI/CD</li>
-    <li>🔹 <b>Architecture:</b> Microservices, System Design</li>
-    <li>🔹 <b>Performance:</b> Optimization, Caching, Scaling</li>
-  </ul>
-  
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%">
+
+<h3>Key Competencies</h3>
+<ul>
+  <li>🔹 <b>Backend Development:</b> Java, Spring Boot, Django, RESTful APIs, Microservices</li>
+  <li>🔹 <b>Database Systems:</b> PostgreSQL, MySQL, MongoDB, Redis (caching & performance)</li>
+  <li>🔹 <b>Cloud & DevOps:</b> AWS (ECS, Lambda, S3, RDS), Docker, CI/CD pipelines</li>
+  <li>🔹 <b>Architecture:</b> Microservices, Integration Patterns, Event-Driven Design, System Design</li>
+  <li>🔹 <b>Performance & Scale:</b> API optimization, async processing, caching strategies, scalability planning</li>
+</ul>
+
   <h3>GitHub Streak</h3>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhildev0904&theme=dark&hide_border=true&background=0D1117&stroke=3C99F7&ring=3C99F7&fire=FF6347&currStreakNum=3C99F7&sideNums=3C99F7&currStreakLabel=3C99F7&sideLabels=3C99F7&dates=8B949E" width="100%" />
@@ -362,36 +368,85 @@ public class UserService {
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </div>
+
 <!-- CAREER TIMELINE WITH VISUAL ELEMENTS -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
 </div>
+
 <div class="timeline">
-  <!-- EXPERIENCE TIMELINE WITH ICONS -->
   <table>
     <tr>
       <td width="15%" align="center">
-        <img src="https://img.shields.io/badge/2025-Present-3C99F7?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/2025~09-Present-3C99F7?style=for-the-badge" />
         <br><br>
-        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring" />
+        <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="AWS" />
       </td>
       <td width="85%">
         <div style="border-left: 3px solid #3C99F7; padding-left: 20px; margin-bottom: 20px;">
-          <h3>Software Engineer Intern</h3>
-          <h4>Cognitree Pvt Ltd</h4>
-          <p>Leading microservices development with Spring Boot and deploying with containerization on AWS.</p>
+          <h3>Product Engineer</h3>
+          <h4>Loyalty Juggernaut Inc. (LJI)</h4>
+          <p>
+            Building and scaling enterprise-grade backend systems for loyalty platforms using Django, Spring Boot, and AWS.
+          </p>
           <ul>
-            <li>Designing and implementing APIs following REST best practices</li>
-            <li>Optimizing database queries for performance enhancement</li>
-            <li>Implementing security measures including JWT authentication</li>
-            <li>Creating CI/CD pipelines for automated testing and deployment</li>
+            <li>Designed and implemented 50+ Django REST APIs for projections engines, loyalty calculators, admin and partner modules</li>
+            <li>Architected scalable microservices with Redis-based caching to improve performance and throughput</li>
+            <li>Built async processing pipelines for compute-heavy workflows and data synchronization</li>
+            <li>Developed Spring Boot services for VTEX–GRAVTY partner integrations</li>
+            <li>Worked on ERP and LMS integrations enabling enterprise data pipelines</li>
           </ul>
         </div>
       </td>
     </tr>
     <tr>
       <td width="15%" align="center">
-        <img src="https://img.shields.io/badge/2023-2023-3C99F7?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/2025~06 -2025~09-3C99F7?style=for-the-badge" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="AWS" />
+      </td>
+      <td width="85%">
+        <div style="border-left: 3px solid #3C99F7; padding-left: 20px; margin-bottom: 20px;">
+          <h3>Product Engineer Trainee</h3>
+          <h4>Loyalty Juggernaut Inc. (LJI)</h4>
+          <p>
+            Early contributor to partnership integrations and backend optimization initiatives.
+          </p>
+          <ul>
+            <li>Developed APIs for enrollment, transaction history, and redemption workflows</li>
+            <li>Improved API performance by ~50% using parallel execution and caching</li>
+            <li>Worked with AWS ECS, Lambda, DynamoDB, and Redshift</li>
+            <li>Gained hands-on experience with production-grade Spring Boot services</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+     <tr>
+      <td width="15%" align="center">
+        <img src="https://img.shields.io/badge/2025~03-2025~05-3C99F7?style=for-the-badge" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring Boot" />
+      </td>
+      <td width="85%">
+        <div style="border-left: 3px solid #3C99F7; padding-left: 20px; margin-bottom: 20px;">
+          <h3>Software Engineer Intern</h3>
+          <h4>Cognitree Pvt Ltd</h4>
+          <p>
+            Worked on backend microservices and cloud deployments for enterprise applications.
+          </p>
+          <ul>
+            <li>Designed and implemented REST APIs using Spring Boot following clean architecture principles</li>
+            <li>Optimized database queries and improved API response times</li>
+            <li>Implemented JWT-based authentication and role-based authorization</li>
+            <li>Containerized services using Docker and deployed on AWS</li>
+            <li>Built CI/CD pipelines for automated testing and deployment</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="15%" align="center">
+        <img src="https://img.shields.io/badge/2023-2024-3C99F7?style=for-the-badge" />
         <br><br>
         <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
       </td>
@@ -399,12 +454,14 @@ public class UserService {
         <div style="border-left: 3px solid #3C99F7; padding-left: 20px; margin-bottom: 20px;">
           <h3>Java Full Stack Developer</h3>
           <h4>iamneo (Formerly Examly)</h4>
-          <p>Built full-stack applications with Java backend and React frontend.</p>
+          <p>
+            Built full-stack applications with Java backend services and React-based user interfaces.
+          </p>
           <ul>
-            <li>Developed RESTful APIs for data retrieval and manipulation</li>
-            <li>Designed responsive UI components with React and Material UI</li>
-            <li>Implemented authentication and authorization workflows</li>
-            <li>Deployed applications on AWS cloud infrastructure</li>
+            <li>Developed RESTful APIs using Spring Boot</li>
+            <li>Built responsive UI components using React and Material UI</li>
+            <li>Implemented authentication and authorization mechanisms</li>
+            <li>Deployed applications on AWS using CI/CD pipelines</li>
           </ul>
         </div>
       </td>
@@ -419,18 +476,23 @@ public class UserService {
         <div style="border-left: 3px solid #3C99F7; padding-left: 20px; margin-bottom: 20px;">
           <h3>Core Team Member</h3>
           <h4>CodeChef VIT-AP Chapter</h4>
-          <p>Organized technical events and mentored peers in programming.</p>
+          <p>
+            Contributed to building a strong competitive programming and technical community.
+          </p>
           <ul>
-            <li>Created problem statements for competitive programming contests</li>
+            <li>Authored problem statements for competitive programming contests</li>
             <li>Conducted workshops on data structures and algorithms</li>
             <li>Mentored junior students in coding and problem-solving</li>
-            <li>Built the chapter's technical community and online presence</li>
+            <li>Helped grow the chapter’s technical presence</li>
           </ul>
         </div>
       </td>
     </tr>
+
   </table>
 </div>
+
+
 <!-- EDUCATION SECTION -->
 <h1 align="center">🎓 Education & Learning</h1>
 <table>
