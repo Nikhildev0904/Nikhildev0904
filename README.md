@@ -41,6 +41,8 @@
   <div style="margin: 20px 0;" align="center">
     <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
     <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
+    <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django" />
     <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
     <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="VS Code" />
     <img src="https://skillicons.dev/icons?i=mongo" width="65" height="65" alt="VS Code" />
